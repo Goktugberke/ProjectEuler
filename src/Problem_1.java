@@ -1,6 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Problem_1 {
     public static void main(String[] args) {
         System.out.println(multiples(10));
         System.out.println(multiples(100));
